@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@chakra-ui/react": "^2.8.1",
+    "@covalenthq/client-sdk": "^0.8.6",
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@rainbow-me/rainbowkit": "^1.0.11",
